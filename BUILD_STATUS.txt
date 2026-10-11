@@ -1,0 +1,2 @@
+APK STATUS: NOT BUILT IN THIS ENVIRONMENT
+Reason: Android SDK, Gradle, and Android build tools are not installed; network access to download them is unavailable. This archive is an Android Studio source project, not an APK installer.
